@@ -1,0 +1,9 @@
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Favorite Food:
+Favorite Color: Red
+
+Favorite Food: BiryaniBiryaniBiryaniBiryani
+Favorite Color: Dark Blue
+
